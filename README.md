@@ -63,7 +63,7 @@ git clone git@github.com:shaileshgoogler/SystemSync
 
 #### How SystemSync Works : Application Logic:
 
-![Alt text](https://ibb.co/kX9C0Q, "SystemSync Design")
+![Alt text](http://i.imgur.com/j6cMA.png, "SystemSync Design")
 
 The application works on simple client/server design concept. Different machines
 that are to be kept in sync will behave as clients and, either one of them or a
