@@ -1,5 +1,7 @@
 # SystemSync
 
+I have tested this source code from here: https://github.com/db42/PySyncIt
+
 SystemSync is a simple tool to keep folders in sync between machines connected on a network.
 Hack this application for SocialCops Backend Developer Challenge. Currently, it supports any number of clients and all of them will be kept in sync. At the core of this application, all files are transferred over the network using 'scp'.
 
